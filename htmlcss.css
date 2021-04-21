@@ -1,0 +1,14 @@
+.Box{
+    margin: 20px;
+    border: 2px;
+    padding: 20px;
+    width: 400px;
+    border-style: groove;
+    text-align: center;
+    color: rgb(10, 49, 49);
+    background-color: rgba(92, 9, 165, 0.247);
+}
+.Heading1{
+    text-align: center;
+
+}
